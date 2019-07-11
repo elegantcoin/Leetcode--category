@@ -1,7 +1,7 @@
 # Leetcode-分类刷
 Jupyter版本
 
-<p align="center">[**<font color=red> Leetcode 所有题目 以及数据详见</font>**](https://github.com/elegantcoin/All_Leetcode_Q_20190610)</p>
+<p align="center">[<font color=red>** Leetcode 所有题目 以及数据详见**</font>](https://github.com/elegantcoin/All_Leetcode_Q_20190610)</p>
 
 - 根据[cspiration 大佬](https://cspiration.com/leetcodeClassification)的整理 分类刷题对Leetcode题目进行了分类排序
 - 根据[LiYu Lu 大佬](https://github.com/luliyucoordinate/Leetcode) 提供的答案，整理了题目答案的Jupyter
