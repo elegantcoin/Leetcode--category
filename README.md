@@ -6,9 +6,14 @@ Jupyter版本
 
 方便刷题，如侵删
 - 实现过程是：
-  - bat 将多个.py合并为一个
+  - bat 将多个.py合并为一个(echo增加分隔符，方便阅读区分，更方便后续处理)
   - 利用excel VBA将Jupyter需要的Cell格式进行调整:
+    - 对"以及\进行转义
+    - 增加引号和换行符 {} [] 对
+    - 可以利用echo的分隔符进行标记，然后识别标记，在对应的地方增加行
+    - 增加Jupyter所需要的   "cell_type": "code", "execution_count": null, "metadata": {}, "outputs": [], "source": [
     - 特别留意转义符
+    - 推荐插件 Able
     
   - 利用[JSONLint](https://jsonlint.com/)的校验，确保无误。
   - 大功告成
